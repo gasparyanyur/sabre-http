@@ -1,5 +1,5 @@
 {
-    "name": "sabre/http",
+    "name": "gasparyanyur/http",
     "description" : "The sabre/http library provides utilities for dealing with http requests and responses. ",
     "keywords" : [ "HTTP" ],
     "homepage" : "https://github.com/fruux/sabre-http",
